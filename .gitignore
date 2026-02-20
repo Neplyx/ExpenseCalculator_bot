@@ -1,0 +1,12 @@
+.env
+
+*.db
+expenses.db
+
+__pycache__/
+*.py[cod]
+
+stats_*.png
+
+venv/
+.venv/
