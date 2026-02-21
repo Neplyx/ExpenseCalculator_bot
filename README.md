@@ -15,7 +15,7 @@
 * **AI:** Google Gemini (Generative AI)
 * **Database:** SQLite
 * **Visualization:** Matplotlib
-* **Environment:** Работає через .env для безпеки ключів
+* **Environment:** Працює через .env для безпеки ключів
 
 ## 📦 Встановлення та запуск
 
