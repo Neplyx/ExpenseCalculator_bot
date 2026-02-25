@@ -1,7 +1,6 @@
 .env
 
 *.db
-expenses.db
 
 __pycache__/
 *.py[cod]

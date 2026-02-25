@@ -18,7 +18,8 @@ class Expense(Base):
     user_id: Mapped[int] = mapped_column(ForeignKey("users.telegram_id", ondelete="CASCADE"))
     amount: Mapped[float] = mapped_column(Float)
     category: Mapped[str] = mapped_column(String(64))
-    date: Mapped[datetime] = mapped_column(Date, default=datetime.now().date)
+    # ВИПРАВЛЕНО: прибрано .now().date, додано посилання на функцію today
+    date: Mapped[datetime] = mapped_column(Date, default=datetime.date.today)
 
 class Goal(Base):
     __tablename__ = "goals"
