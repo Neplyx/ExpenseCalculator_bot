@@ -1,6 +1,6 @@
 from sqlalchemy import BigInteger, String, Float, ForeignKey, Date, DateTime, func
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
-from datetime import datetime
+from datetime import datetime, date
 
 class Base(DeclarativeBase):
     pass
