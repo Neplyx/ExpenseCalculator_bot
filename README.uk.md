@@ -1,5 +1,10 @@
 # 🧾 Expense Calculator Bot (v2.0)
 
+<p align="left">
+  <a href="README.md">🇺🇸 English</a> | 
+  <a href="README.uk.md">🇺🇦 Українська</a>
+</p>
+
 Професійний Telegram-бот для автоматизації обліку фінансів, побудований на базі штучного інтелекту. Бот допомагає контролювати витрати, стежити за підписками та аналізувати бюджет за допомогою потужного серверного рішення.
 
 ## 🚀 Що нового у версії 2.0 (Major Update)
@@ -42,7 +47,6 @@ Maksym Kudyk — Python Developer & Automation Enthusiast.
 
 Certified by SoftServe Academy.
 
-Open for projects on Fiverr.
 
 
 
