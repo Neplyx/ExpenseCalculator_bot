@@ -42,10 +42,12 @@
 3. Запустіть бота:
    ```bash
    python main.py
-👤 Автор
-Maksym Kudyk — Python Developer & Automation Enthusiast.
+   
+## 👤 Автор
 
-Certified by SoftServe Academy.
+* **Maksym Kudyk** — Python Developer & Automation Enthusiast.
+
+* **Education**: Certified by SoftServe Academy.
 
 
 
